@@ -14,7 +14,7 @@
 	--color-gray-900: #111827;
 	--color-gray-950: #030712;
 
-    --color-primary: #3b82f6; /* Blue used in buttons */
+    --color-primary: oklch(0.696 0.17 162.48); /* M45 primary brand color */
 
 	--font-sans: "Inter", sans-serif;
 	--font-serif: "Instrument Serif", serif;
