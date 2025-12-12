@@ -8,13 +8,13 @@
 			<!-- Stat 1 -->
 			<div class="flex flex-col h-full justify-between group cursor-pointer">
 				<p class="text-sm text-gray-400 mb-8 leading-relaxed">
-					Global law firm automates compiling and analysis of legal docs
+					Fortune 500 security team reduces incident documentation time with visual capture
 				</p>
 				<div>
-					<div class="text-5xl md:text-6xl font-normal mb-2 tracking-tight">62%</div>
+					<div class="text-5xl md:text-6xl font-normal mb-2 tracking-tight">75%</div>
 					<div class="flex items-center gap-2">
 						<div class="w-2 h-2 rounded-full bg-green-500"></div>
-						<span class="text-xs font-semibold tracking-wider text-gray-400 uppercase">Time Savings</span>
+						<span class="text-xs font-semibold tracking-wider text-gray-400 uppercase">Faster Documentation</span>
 					</div>
 				</div>
 			</div>
@@ -22,13 +22,13 @@
 			<!-- Stat 2 -->
 			<div class="flex flex-col h-full justify-between group cursor-pointer">
 				<p class="text-sm text-gray-400 mb-8 leading-relaxed">
-					European fintech scales up uses AI agent for new hire onboarding
+					Global fintech gains unified visibility across multi-cloud infrastructure
 				</p>
 				<div>
-					<div class="text-5xl md:text-6xl font-normal mb-2 tracking-tight">10h</div>
+					<div class="text-5xl md:text-6xl font-normal mb-2 tracking-tight">3x</div>
 					<div class="flex items-center gap-2">
 						<div class="w-2 h-2 rounded-full bg-green-500"></div>
-						<span class="text-xs font-semibold tracking-wider text-gray-400 uppercase">Per Week/Employee Saved</span>
+						<span class="text-xs font-semibold tracking-wider text-gray-400 uppercase">Faster Threat Detection</span>
 					</div>
 				</div>
 			</div>
@@ -36,13 +36,13 @@
 			<!-- Stat 3 -->
 			<div class="flex flex-col h-full justify-between group cursor-pointer">
 				<p class="text-sm text-gray-400 mb-8 leading-relaxed">
-					Leading Swedish mining manufacturer automates R&D analysis workflows
+					Enterprise IT team captures tribal knowledge from departing security architects
 				</p>
 				<div>
-					<div class="text-5xl md:text-6xl font-normal mb-2 tracking-tight">50%</div>
+					<div class="text-5xl md:text-6xl font-normal mb-2 tracking-tight">90%</div>
 					<div class="flex items-center gap-2">
 						<div class="w-2 h-2 rounded-full bg-green-500"></div>
-						<span class="text-xs font-semibold tracking-wider text-gray-400 uppercase">Time Savings</span>
+						<span class="text-xs font-semibold tracking-wider text-gray-400 uppercase">Knowledge Retained</span>
 					</div>
 				</div>
 			</div>
@@ -50,13 +50,13 @@
 			<!-- Stat 4 -->
 			<div class="flex flex-col h-full justify-between group cursor-pointer">
 				<p class="text-sm text-gray-400 mb-8 leading-relaxed">
-					Industrial market leader uses AI agent to augment customer support
+					Cloud-native company automates security posture documentation across AWS and Azure
 				</p>
 				<div>
-					<div class="text-5xl md:text-6xl font-normal mb-2 tracking-tight">2x</div>
+					<div class="text-5xl md:text-6xl font-normal mb-2 tracking-tight">50+</div>
 					<div class="flex items-center gap-2">
 						<div class="w-2 h-2 rounded-full bg-green-500"></div>
-						<span class="text-xs font-semibold tracking-wider text-gray-400 uppercase">Number of Issues Resolved</span>
+						<span class="text-xs font-semibold tracking-wider text-gray-400 uppercase">Hours Saved Monthly</span>
 					</div>
 				</div>
 			</div>

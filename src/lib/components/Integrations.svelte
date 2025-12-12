@@ -1,22 +1,22 @@
 <script lang="ts">
     // Simple SVG paths for icons would be better, but for now using colored squares/circles to mimic brand colors
     const integrations = [
-        { name: 'Google Drive', color: 'bg-green-500' },
-        { name: 'Teams', color: 'bg-indigo-500' },
-        { name: 'Slack', color: 'bg-purple-500' },
-        { name: 'Salesforce', color: 'bg-blue-400' },
-        { name: 'HubSpot', color: 'bg-orange-500' },
+        { name: 'AWS', color: 'bg-orange-500' },
+        { name: 'Azure', color: 'bg-blue-500' },
+        { name: 'GCP', color: 'bg-blue-400' },
+        { name: 'Splunk', color: 'bg-green-600' },
+        { name: 'Datadog', color: 'bg-purple-600' },
+        { name: 'CrowdStrike', color: 'bg-red-600' },
+        { name: 'Palo Alto', color: 'bg-orange-600' },
+        { name: 'Okta', color: 'bg-blue-600' },
         { name: 'ServiceNow', color: 'bg-green-700' },
-        { name: 'SharePoint', color: 'bg-teal-600' },
-        { name: 'OneDrive', color: 'bg-blue-600' },
-        { name: 'Outlook', color: 'bg-blue-500' },
-        { name: 'Workday', color: 'bg-blue-700' },
-        { name: 'Figma', color: 'bg-purple-400' },
-        { name: 'GitHub', color: 'bg-white' },
-        { name: 'Zendesk', color: 'bg-green-400' },
-        { name: 'Gmail', color: 'bg-red-500' },
-        { name: 'Confluence', color: 'bg-blue-300' },
-        { name: 'Jira', color: 'bg-blue-500' }
+        { name: 'Jira', color: 'bg-blue-500' },
+        { name: 'PagerDuty', color: 'bg-green-500' },
+        { name: 'Slack', color: 'bg-purple-500' },
+        { name: 'Sentinel', color: 'bg-blue-700' },
+        { name: 'Cloudflare', color: 'bg-orange-400' },
+        { name: 'Kubernetes', color: 'bg-blue-400' },
+        { name: 'GitHub', color: 'bg-white' }
     ];
 
     const security = [
@@ -29,18 +29,18 @@
 <section class="py-24 bg-black text-white">
 	<div class="max-w-[1400px] mx-auto px-6 text-center">
 		<h2 class="text-4xl md:text-5xl lg:text-6xl font-serif font-normal mb-6">
-			Enterprise-grade<br />
-			integrations and security
+			Pre-built connectors<br />
+			for your security stack
 		</h2>
 		<p class="text-gray-400 text-lg max-w-2xl mx-auto mb-20">
-			Sana connects with 100+ applications and unifies your company's data securely.
+			M45's connector marketplace integrates with 100+ security tools and cloud platforms—no custom development required.
 		</p>
 
 		<div class="grid grid-cols-1 lg:grid-cols-2 gap-20">
             <!-- Integrations -->
 			<div>
-                <div class="inline-block bg-[#3b82f6] text-white text-[10px] font-bold px-3 py-1 rounded-full mb-8 tracking-wide uppercase">
-                    Connect your daily tools seamlessly
+                <div class="inline-block text-white text-[10px] font-bold px-3 py-1 rounded-full mb-8 tracking-wide uppercase" style="background-color: oklch(0.696 0.17 162.48)">
+                    Cloud & Security Platform Connectors
                 </div>
                 
                 <div class="grid grid-cols-4 gap-4">
@@ -57,7 +57,7 @@
 
             <!-- Security -->
 			<div>
-                <div class="inline-block bg-[#3b82f6] text-white text-[10px] font-bold px-3 py-1 rounded-full mb-8 tracking-wide uppercase">
+                <div class="inline-block text-white text-[10px] font-bold px-3 py-1 rounded-full mb-8 tracking-wide uppercase" style="background-color: oklch(0.696 0.17 162.48)">
                     Security you can stand by
                 </div>
                 

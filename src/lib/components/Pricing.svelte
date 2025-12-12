@@ -10,122 +10,122 @@
 			<!-- Enterprise -->
 			<div class="border-r border-white/10 pr-8">
 				<h3 class="text-xl font-bold mb-2">Enterprise</h3>
-				<p class="text-gray-400 text-sm mb-6">Custom</p>
+				<p class="text-gray-400 text-sm mb-6">Custom pricing</p>
 				<button class="bg-white text-black px-6 py-2 rounded-full text-sm font-bold mb-12 hover:bg-gray-200 transition-colors">
-					Book an intro
+					Request demo
 				</button>
 
-                <div class="mb-4 text-[10px] font-bold text-gray-500 uppercase tracking-wider">EVERYTHING IN TEAM +</div>
+                <div class="mb-4 text-[10px] font-bold text-gray-500 uppercase tracking-wider">EVERYTHING IN PROFESSIONAL +</div>
 				<ul class="space-y-4">
 					<li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-[#a3e635] flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>Unlimited members per workspace and documents per integration</span>
+						<span>Unlimited security team members and cloud environments</span>
 					</li>
 					<li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-[#a3e635] flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>Enterprise integrations</span>
+						<span>All pre-built connectors in marketplace</span>
 					</li>
 					<li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-[#a3e635] flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>Domain verification, SAML-based SSO, and SCIM</span>
+						<span>SAML SSO, SCIM provisioning, and audit logs</span>
 					</li>
                     <li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-[#a3e635] flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>Extended range of LLMs</span>
+						<span>Custom AI model training on your data</span>
 					</li>
                     <li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-[#a3e635] flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>Analytics dashboard to measure impact</span>
+						<span>Advanced analytics and reporting dashboard</span>
 					</li>
                     <li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-[#a3e635] flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>Dedicated success team, priority support, and SLA</span>
+						<span>Dedicated security architect and 24/7 support with SLA</span>
 					</li>
                     <li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-[#a3e635] flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>API access for building your own integrations</span>
+						<span>API access for custom integrations</span>
 					</li>
 				</ul>
 			</div>
 
-			<!-- Team -->
+			<!-- Professional -->
 			<div class="border-r border-white/10 pr-8">
-				<h3 class="text-xl font-bold mb-2">Team</h3>
-				<p class="text-orange-500 text-sm mb-6">$30 / user per month</p>
+				<h3 class="text-xl font-bold mb-2">Professional</h3>
+				<p class="text-orange-500 text-sm mb-6">$99 / user per month</p>
 				<button class="bg-transparent border border-white/20 text-white px-6 py-2 rounded-full text-sm font-bold mb-12 hover:bg-white/10 transition-colors">
-					Sign up
+					Start trial
 				</button>
 
-                <div class="mb-4 text-[10px] font-bold text-gray-500 uppercase tracking-wider">EVERYTHING IN FREE +</div>
+                <div class="mb-4 text-[10px] font-bold text-gray-500 uppercase tracking-wider">EVERYTHING IN STARTER +</div>
 				<ul class="space-y-4">
 					<li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-orange-500 flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>Unlimited queries and meeting recordings</span>
+						<span>Unlimited visual documentation captures</span>
 					</li>
 					<li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-orange-500 flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>Up to 50 members per workspace</span>
+						<span>Up to 50 security team members</span>
 					</li>
 					<li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-orange-500 flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>Our most popular integrations incl. Asana, Gmail, Outlook email, Zendesk, and more.</span>
+						<span>Popular security integrations: AWS, Azure, GCP, Splunk, Datadog</span>
 					</li>
                      <li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-orange-500 flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>OpenAI and Claude model selection</span>
+						<span>Advanced AI threat detection models</span>
 					</li>
                      <li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-orange-500 flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>Enterprise data processing agreement</span>
+						<span>SOC 2 Type 2 and compliance certifications</span>
 					</li>
                      <li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-orange-500 flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>10,000 documents per integration</span>
+						<span>Unlimited cloud environments monitored</span>
 					</li>
                      <li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-orange-500 flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>Priority in-email and chat support</span>
+						<span>Priority email and chat support</span>
 					</li>
 				</ul>
 			</div>
 
-			<!-- Free -->
+			<!-- Starter -->
 			<div>
-				<h3 class="text-xl font-bold mb-2">Free</h3>
-				<p class="text-pink-500 text-sm mb-6">$0</p>
+				<h3 class="text-xl font-bold mb-2">Starter</h3>
+				<p class="text-pink-500 text-sm mb-6">$49 / user per month</p>
 				<button class="bg-transparent border border-white/20 text-white px-6 py-2 rounded-full text-sm font-bold mb-12 hover:bg-white/10 transition-colors">
-					Try it free
+					Start trial
 				</button>
 
-                <div class="mb-4 text-[10px] font-bold text-gray-500 uppercase tracking-wider">IDEAL FOR INDIVIDUALS</div>
+                <div class="mb-4 text-[10px] font-bold text-gray-500 uppercase tracking-wider">IDEAL FOR SMALL TEAMS</div>
 				<ul class="space-y-4">
 					<li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-pink-500 flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>10 meetings per month — invite members for more</span>
+						<span>100 visual documentation captures per month</span>
 					</li>
 					<li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-pink-500 flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>Up to 5 members per workspace</span>
+						<span>Up to 10 security team members</span>
 					</li>
 					<li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-pink-500 flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>Unlimited assistants and prompt templates</span>
+						<span>AI-powered tribal knowledge capture</span>
 					</li>
                     <li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-pink-500 flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>Meeting integrations with Calendar, Drive, Meet, Teams, and Zoom</span>
+						<span>Basic cloud integrations: AWS, Azure, or GCP</span>
 					</li>
                     <li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-pink-500 flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>Data integrations with Confluence, Google Drive, OneDrive, Notion, and Sharepoint</span>
+						<span>Slack and Microsoft Teams integration</span>
 					</li>
                     <li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-pink-500 flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>1000 documents per integration</span>
+						<span>Monitor up to 3 cloud environments</span>
 					</li>
                     <li class="flex items-start gap-3 text-sm text-gray-300">
 						<div class="w-4 h-4 rounded-full bg-pink-500 flex items-center justify-center text-black text-[8px] font-bold mt-0.5">✓</div>
-						<span>Help center support</span>
+						<span>Email support</span>
 					</li>
 				</ul>
 			</div>
